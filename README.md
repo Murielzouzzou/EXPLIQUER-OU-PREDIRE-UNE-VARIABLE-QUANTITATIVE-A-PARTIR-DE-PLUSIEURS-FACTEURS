@@ -1,2 +1,4 @@
 # EXPLIQUER-OU-PREDIRE-UNE-VARIABLE-QUANTITATIVE-A-PARTIR-DE-PLUSIEURS-FACTEURS
 Il s'agit d'un projet réalisé dans le  cadre d’une SAÉ organisée en partenariat avec Open Data University. L'objectif était de comprendre les facteurs qui influencent le nombre de bornes  de recharge installées dans les communes du département du Rhône en Auvergne Rhône Alpes, France.
+Cette SAÉ, qui s’est déroulée sur plusieurs semaines, avait pour objectif de relever un défi lié à des problématiques actuelles telles que la diversité en entreprise, le changement climatique ou les véhicules électriques. Le projet s’inscrivait dans une démarche concrète d’analyse et de modélisation de données, avec un fort ancrage professionnel. 
+Ce travail m’a permis de comprendre et d’appliquer clairement la distinction essentielle entre analyse exploratoire et modélisation statistique.
